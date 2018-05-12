@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42289'
     url: http://www.gutenberg.org/2009/agents/42289
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43551#The-White-Horses
 gutenberg_issued: '2013-08-24'
 gutenberg_type: Text
 identifiers:
